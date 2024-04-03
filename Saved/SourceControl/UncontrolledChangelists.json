@@ -7,7 +7,27 @@
 			"files": [
 				"C:/Users/Demir/Documents/Unreal Projects/MyProject/Content/LabW2/ThirdPerson/Labwork1/NewMap.umap",
 				"C:/Users/Demir/Documents/GitHub/MyProject/Content/LabW2/ThirdPerson/Labwork1/NameBlueprint.uasset",
-				"C:/Users/Demir/Documents/GitHub/MyProject/Content/LabW2/ThirdPerson/Labwork1/NewMap.umap"
+				"C:/Users/Demir/Documents/GitHub/MyProject/Content/LabW2/ThirdPerson/Labwork1/NewMap.umap",
+				"C:/Users/Demir/Documents/GitHub/MyProject/Content/Midterm/MidtermMap.umap",
+				"C:/Users/Demir/Documents/GitHub/MyProject/Content/Midterm/BP_Key.uasset",
+				"C:/Users/Demir/Documents/GitHub/MyProject/Content/Midterm/BP_MazeCell.uasset",
+				"C:/Users/Demir/Documents/GitHub/MyProject/Content/LabW2/ThirdPerson/Labwork1/BP_MazeCell.uasset",
+				"C:/Users/Demir/Documents/GitHub/MyProject/Content/Midterm/BP_SlidingDoor.uasset",
+				"C:/Users/Demir/Documents/GitHub/MyProject/Content/Midterm/BPI_Interactable.uasset",
+				"C:/Users/Demir/Documents/GitHub/MyProject/Content/LabW2/ThirdPerson/Labwork1/BPI_Interactable.uasset",
+				"C:/Users/Demir/Documents/GitHub/MyProject/Content/LabW2/ThirdPerson/Labwork1/BP_SlidingDoor.uasset",
+				"C:/Users/Demir/Documents/GitHub/MyProject/Content/LabW2/ThirdPerson/Labwork1/BP_Key.uasset",
+				"C:/Users/Demir/Documents/GitHub/MyProject/Content/Midterm/BP/BPI_Interactable.uasset",
+				"C:/Users/Demir/Documents/GitHub/MyProject/Content/Midterm/BP/BP_Key.uasset",
+				"C:/Users/Demir/Documents/GitHub/MyProject/Content/Midterm/BP/BP_MazeCell.uasset",
+				"C:/Users/Demir/Documents/GitHub/MyProject/Content/Midterm/BP/BP_SlidingDoor.uasset",
+				"C:/Users/Demir/Documents/GitHub/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Demir/Documents/GitHub/MyProject/Content/ThirdPerson/Blueprints/BP_HealthBar.uasset",
+				"C:/Users/Demir/Documents/GitHub/MyProject/Content/Midterm/BP/BP_PoisonTrap.uasset",
+				"C:/Users/Demir/Documents/GitHub/MyProject/Content/Midterm/M_PoisonCloud.uasset",
+				"C:/Users/Demir/Documents/GitHub/MyProject/Content/Midterm/BP/BP_Medkit.uasset",
+				"C:/Users/Demir/Documents/GitHub/MyProject/Content/Midterm/Materials/M_PoisonCloud.uasset",
+				"C:/Users/Demir/Documents/GitHub/MyProject/Content/Midterm/Materials/M_Medkit.uasset"
 			]
 		}
 	]
